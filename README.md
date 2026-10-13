@@ -1,6 +1,7 @@
 # Qompass Go Template
 
 A template for creating Go applications at Qompass AI.
+<a href="./LICENSE"><img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="License: Apache 2.0"></a>
 
 ## Features
 
@@ -55,3 +56,7 @@ gotemplate/
 ├── README.md               # Project documentation
 └── LICENSE-*               # Dual-Licenses 
 ```
+
+## License
+
+This project is licensed under the [Apache License, Version 2.0](./LICENSE).
